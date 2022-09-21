@@ -1,6 +1,6 @@
-# **Distributed Architectures for Big Data Processing and Analytics
+# **Distributed Architectures for Big Data Processing and Analytics**
 
-This repository contains the examples and exercises of the course Distributed Architectures for Big Data Processing and Analytics, for the Data Science and Engineering course at Politecnico di Torino. The course is mainly based on **Hadoop Map Reduce** techniques and an introduction to the **Apache Spark** framework.
+This repository contains the examples and exercises of the course Distributed Architectures for Big Data Processing and Analytics, for the ***Data Science and Engineering course*** at ***Politecnico di Torino***. The course is mainly based on ***Hadoop Map Reduce*** techniques and an introduction to the ***Apache Spark*** framework.
 
 The exercises and examples contain the following topics:
 - Introduction to Apache Spark;
